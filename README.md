@@ -1,3 +1,3 @@
 # flutter-native-prototype
 stateless prototype for school UI and UX group work;
-can be used directly on dartpad without additional tools
+can be directly used on dartpad.dev in Microsoft Edge without any additional tools
